@@ -1,2 +1,3 @@
 # mini-database
-simple mini batabese code you can used in your project
+simple mini batabese, u can store, delete, sort and retrieve data.
+you can simply implement in your project
